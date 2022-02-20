@@ -1,3 +1,4 @@
 [{"item": "car", "price": 20, "qty": 100},
 {"item": "pen", "price": 10, "qty": 70},
+{"item": "pen2", "price": 120, "qty": 270},
 {"item": "pencil", "price": 7, "qty": 120}]
